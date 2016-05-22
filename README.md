@@ -2,3 +2,5 @@
 はじめてのAngular２アプリ
 テストだよ
 Angular2をもっとうまく使いたいなぁ。
+
+branchTestBでーす。
