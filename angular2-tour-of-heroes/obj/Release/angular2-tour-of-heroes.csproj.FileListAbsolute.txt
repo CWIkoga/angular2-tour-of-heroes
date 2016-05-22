@@ -1,0 +1,1 @@
+C:\Users\memen\onedrive\ドキュメント\visual studio 2013\Projects\angular2-tour-of-heroes\angular2-tour-of-heroes\obj\Release\angular2-tour-of-heroes.csprojResolveAssemblyReference.cache

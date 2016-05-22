@@ -1,0 +1,6 @@
+C:\Users\memen\onedrive\ドキュメント\visual studio 2013\Projects\angular2-tour-of-heroes\angular2-tour-of-heroes\bin\angular2-tour-of-heroes.dll.config
+C:\Users\memen\onedrive\ドキュメント\visual studio 2013\Projects\angular2-tour-of-heroes\angular2-tour-of-heroes\bin\angular2-tour-of-heroes.dll
+C:\Users\memen\onedrive\ドキュメント\visual studio 2013\Projects\angular2-tour-of-heroes\angular2-tour-of-heroes\bin\angular2-tour-of-heroes.pdb
+C:\Users\memen\onedrive\ドキュメント\visual studio 2013\Projects\angular2-tour-of-heroes\angular2-tour-of-heroes\obj\Debug\angular2-tour-of-heroes.dll
+C:\Users\memen\onedrive\ドキュメント\visual studio 2013\Projects\angular2-tour-of-heroes\angular2-tour-of-heroes\obj\Debug\angular2-tour-of-heroes.pdb
+C:\Users\memen\OneDrive\ドキュメント\Visual Studio 2013\Projects\angular2-tour-of-heroes\angular2-tour-of-heroes\obj\Debug\angular2-tour-of-heroes.csprojResolveAssemblyReference.cache
