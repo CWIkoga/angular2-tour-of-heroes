@@ -3,3 +3,4 @@
 テストだよ
 Angular2をもっとうまく使いたいなぁ。
 BranchTestAだよ。
+BranchTestBと競合解決したよ
